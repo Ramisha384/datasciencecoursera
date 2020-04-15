@@ -1,4 +1,4 @@
 # datasciencecoursera
 
 ## This is a markdown file
-Coursera assemble your toolbox for data science assignment. 
+*Project*:  **The Data Scientist's Toolbox: Peer-graded assignment**
